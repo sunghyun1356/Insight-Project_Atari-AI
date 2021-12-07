@@ -1,4 +1,4 @@
-# 2021-insight-2nd-Project-Atari-RL
+# 2021-2-insight-2nd-Project-Atari-RL
 Atari Reinforcement Learning
 
 Space Invaders Walkthough_ver_colab.ipynb에서 rom 사용법
